@@ -1,5 +1,8 @@
 # obsidian-paperpile-sync 
 
+This currently works for my needs, but it's not user friendly software to use at your own risk. 
+
+
 ## Disclaimer
 
 Please note that this tool is a standalone Python script and **not** a functional plugin for Obsidian. It is designed to be run independently in your Python environment, and the output files it generates can then be imported into Obsidian.
