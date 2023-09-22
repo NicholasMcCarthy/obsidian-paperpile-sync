@@ -1,0 +1,5 @@
+fuzzywuzzy
+pillow
+pymupdf
+python-levenshtein
+pyyaml
